@@ -1,0 +1,30 @@
+# Windows / macOS / Linux metadata
+.DS_Store
+.directory
+Thumbs.db
+desktop.ini
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.xml
+*.iml
+
+# Python / Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+media/
+backend/venv/
+
+# Flutter / Dart
+frontend/testngrok/.dart_tool/
+frontend/testngrok/build/
+frontend/testngrok/.flutter-plugins
+frontend/testngrok/.flutter-plugins-dependencies
+frontend/testngrok/.metadata
+frontend/testngrok/pubspec.lock
